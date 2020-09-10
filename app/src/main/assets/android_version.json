@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Cupcake",
+    "version": "Android 1.5"
+  },
+  {
+    "name": "Donut",
+    "version": "Android 1.6"
+  },
+  {
+    "name": "Eclairs",
+    "version": "Android 2.0-2.1"
+  },
+  {
+    "name": "Froyo",
+    "version": "Android 2.2-2.3"
+  },
+  {
+    "name": "Gingerbread",
+    "version": "Android 2.3-2.3.7"
+  },
+  {
+    "name": "Honeycomb",
+    "version": "Android 3.0-3.2.6"
+  },
+  {
+    "name": "Icecream",
+    "version": "Android 4.0-4.0.4"
+  },
+  {
+    "name": "Jellybean",
+    "version": "Android 4.1-4.3.1"
+  },
+  {
+    "name": "Kitkat",
+    "version": "Android 4.4-4.4.4"
+  },
+  {
+    "name": "Lolipop",
+    "version": "Android 5.0-5.1.1"
+  },
+  {
+    "name": "Marshmallow",
+    "version": "Android 6.0-6.0.1"
+  },
+  {
+    "name": "Nougat",
+    "version": "Android 7.0-7.1.2"
+  },
+  {
+    "name": "Oreo",
+    "version": "Android 8.0-8.1"
+  },
+  {
+    "name": "Pie",
+    "version": "Android 9.0"
+  }
+]
